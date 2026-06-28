@@ -130,7 +130,23 @@ The official app opens a separate HTTP request (and TCP connection) per mouse ev
 
 ---
 
-## Build & Run
+## Install
+
+Download the latest `VestelRemote.ipa` from the [**Releases**](../../releases) page, then:
+
+1. Open **LiveContainer**, tap **+** (top-right), and import the `.ipa`.
+2. Launch it once, then turn on **Settings → LiveContainer → Local Network**.
+3. Make sure **Virtual Remote** is enabled on the TV and the phone is on the same Wi-Fi.
+
+To verify your download, compare its checksum against the SHA-256 published in the release notes:
+
+```bash
+sha256sum VestelRemote.ipa
+```
+
+---
+
+## Build from source
 
 This app is built with **[xtool](https://github.com/xtool-org/xtool)** — a cross‑platform Swift/iOS toolchain that runs on Linux, so **no Mac is required** — and installed with **LiveContainer**, which runs unsigned apps, so **no paid Apple Developer account or code signing is needed**.
 
