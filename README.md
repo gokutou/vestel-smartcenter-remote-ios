@@ -213,3 +213,4 @@ MIT License. See [`LICENSE`](LICENSE).
 
 - [xtool](https://github.com/xtool-org/xtool) — building iOS apps from Linux.
 - [LiveContainer](https://github.com/LiveContainer/LiveContainer) — running apps without code signing.
+- [Claude](https://claude.ai) (Anthropic) — helped reverse-engineer the protocol and build the app.
