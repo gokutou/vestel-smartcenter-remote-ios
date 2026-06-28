@@ -27,8 +27,11 @@ The whole thing is a single Swift file and was developed entirely on Linux (no M
 ---
 
 ## Screenshots
-
-> _Add screenshots here (main remote + touchpad screen)._
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70c509e1-1d90-454d-bde9-20d12e814a93" width="240" alt="Remote">
+  <img src="https://github.com/user-attachments/assets/ef1e6073-ec09-48ba-8fb3-db368bb1a720" width="240" alt="Remote (scrolled)">
+  <img src="https://github.com/user-attachments/assets/6717d9f4-12c0-4a8d-96b3-372741e066be" width="240" alt="Touchpad">
+</p>
 
 ---
 
